@@ -1,0 +1,26 @@
+[
+  {
+    "BandId": 1,
+    "BandStart": "0.00",
+    "BandFinish": "14,000.00",
+    "TaxRatePercent": "11.5"
+  },
+  {
+    "BandId": 2,
+    "BandStart": "14,000.00",
+    "BandFinish": "48,000.00",
+    "TaxRatePercent": "21.0"
+  },
+  {
+    "BandId": 3,
+    "BandStart": "48,000.00",
+    "BandFinish": "70,000.00",
+    "TaxRatePercent": "31.5"
+  },
+  {
+    "BandId": 4,
+    "BandStart": "70,000.00",
+    "BandFinish": "and over",
+    "TaxRatePercent": "35.5"
+  }
+]
